@@ -44,12 +44,11 @@ interactive-quiz-app/
 
 ---
 
-## 📸 Preview (How to include a screenshot)
+## 📸 Preview 
 
-Place a screenshot named `preview.png` inside an `assets/` folder (or at the repo root) and reference it with *relative* markdown in the README so GitHub can render it:
 
 ```md
-![Quiz Screenshot](./assets/preview.png)
+![Quiz Screenshot](/assets/preview.png)
 ```
 
 
