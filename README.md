@@ -44,14 +44,20 @@ interactive-quiz-app/
 
 ---
 
-## 📸 Preview (How to include a screenshot)
+## 📸 Preview 
 
-Place a screenshot named `preview.png` inside an `assets/` folder (or at the repo root) and reference it with *relative* markdown in the README so GitHub can render it:
 
+
+![Quiz Screenshot](https://raw.githubusercontent.com/Nevikai/interactive-quiz-app/main/assets/preview.png)
+
+
+<<<<<<< HEAD
 ```md
 ![Quiz Screenshot](https://raw.githubusercontent.com/Nevikai/interactive-quiz-app/main/assets/preview.png)
 
 ```
+=======
+>>>>>>> 6f30aa398a2066f6dda149aeac4dfe80073fb87a
 
 
 ---
