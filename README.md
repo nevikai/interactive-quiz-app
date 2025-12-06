@@ -49,7 +49,8 @@ interactive-quiz-app/
 Place a screenshot named `preview.png` inside an `assets/` folder (or at the repo root) and reference it with *relative* markdown in the README so GitHub can render it:
 
 ```md
-![Quiz Screenshot](./assets/preview.png)
+![Quiz Screenshot](https://raw.githubusercontent.com/Nevikai/interactive-quiz-app/main/assets/preview.png)
+
 ```
 
 
@@ -112,5 +113,3 @@ This project is licensed under the **MIT License** — free for personal and com
 ## ⭐ Support
 
 If you like this project, consider giving the repo a **star** on GitHub. It really helps ❤️
-
-
