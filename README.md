@@ -47,10 +47,10 @@ interactive-quiz-app/
 ## 📸 Preview 
 
 
-```md
+
 ![Quiz Screenshot](https://raw.githubusercontent.com/Nevikai/interactive-quiz-app/main/assets/preview.png)
 
-```
+
 
 
 ---
