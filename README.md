@@ -44,21 +44,9 @@ interactive-quiz-app/
 
 ---
 
-## 📸 Preview 
+## 📸 Preview
 
-
-
-![Quiz Screenshot](https://raw.githubusercontent.com/Nevikai/interactive-quiz-app/main/assets/preview.png)
-
-
-<<<<<<< HEAD
-```md
-![Quiz Screenshot](https://raw.githubusercontent.com/Nevikai/interactive-quiz-app/main/assets/preview.png)
-
-```
-=======
->>>>>>> 6f30aa398a2066f6dda149aeac4dfe80073fb87a
-
+![Quiz Screenshot](https://raw.githubusercontent.com/Nevikai/interactive-quiz-app/main/assets/preview1.png)
 
 ---
 
