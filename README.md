@@ -48,7 +48,8 @@ interactive-quiz-app/
 
 
 ```md
-![Quiz Screenshot](/assets/preview.png)
+![Quiz Screenshot](https://raw.githubusercontent.com/Nevikai/interactive-quiz-app/main/assets/preview.png)
+
 ```
 
 
